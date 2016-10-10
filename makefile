@@ -1,4 +1,4 @@
 all:
-	gcc lex.yy.c -o main -lfl
+	gcc lex.yy.c -o hw4 -lfl
 clean:
-	rm -rf *.o main
+	rm -rf *.o hw4
