@@ -6,4 +6,6 @@ $cd "path-to-project"/src
 
 $make
 
-$./main "file-name"
+$./hw4 "test1"
+
+$./hw4 "test1"
