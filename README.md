@@ -1,6 +1,7 @@
 # HW4
 
 Для запуска:
+
 $cd "path-to-project"/src
 
 $make
